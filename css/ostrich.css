@@ -10,5 +10,9 @@ html {
 
 /* Write your solution here */
 
-@media screen only and (max-width: )
+@media screen only and (max-width: 1310px) {
+  #ostrich {
+    top: -25px;
+  }
+}
 
